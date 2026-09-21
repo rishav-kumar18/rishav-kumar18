@@ -1,61 +1,75 @@
 # Hi, I'm Rishav Kumar 👋
 
-### .NET Developer | C# | ASP.NET MVC | SQL | Web Development
+### Software Developer | Web Developer | Data Analytics & Machine Learning
 
-Computer Science graduate interested in software development, web
-development, data analysis, and building practical applications.
+Computer Science graduate interested in software development, web development, data analytics, and machine learning. I enjoy building practical applications, solving problems, and continuously learning new technologies through projects.
+
+---
 
 ## 👨‍💻 About Me
 
-- 💻 Interested in .NET and web application development
-- 🛠️ Working with C#, ASP.NET MVC, SQL Server and JavaScript
-- 🌐 Experience building web and real-time applications
-- 📊 Knowledge of Python, data analysis and machine learning
-- 🚀 Continuously learning and building projects
+- 💻 Interested in software and web application development
+- 🛠️ Experience with C#, .NET, ASP.NET MVC, JavaScript, Python, and SQL
+- 🌐 Built web applications and real-time applications
+- 📊 Worked on data analysis and machine learning projects
+- 🚀 Continuously learning and building projects with different technologies
 
-## 🛠️ Technologies
+---
 
-**Languages:**  
-C# • C++ • Java • Python • JavaScript • PHP
+## 🛠️ Technologies & Tools
 
-**Web & Frameworks:**  
-.NET • ASP.NET MVC • WinForms • HTML • CSS • Node.js • Express.js • React.js • Socket.IO
+### Languages
+C# • C++ • Java • Python • JavaScript • PHP • HTML • CSS
 
-**Databases:**  
+### Frameworks & Technologies
+.NET • ASP.NET MVC • .NET WinForms • Node.js • Express.js • React.js • Socket.IO • ADO.NET • Entity Framework
+
+### Databases
 SQL Server • MySQL • MongoDB
 
-**Tools & Technologies:**  
-Git • GitHub • ADO.NET • Entity Framework • XAMPP • phpMyAdmin
-
-**Data & Machine Learning:**  
+### Data & Machine Learning
 Python • Pandas • Scikit-learn • Matplotlib • Power BI
+
+### Tools
+Git • GitHub • XAMPP • phpMyAdmin
+
+---
 
 ## 🚀 Projects
 
-### MechMaster – Workshop Management Portal
-C# • ASP.NET MVC • WinForms • SQL Server
+### 🛠️ MechMaster – Workshop Management Portal
 
-Workshop management application for handling customers, vehicles,
-spare parts and invoices.
+**C# • ASP.NET MVC • .NET WinForms • SQL Server**
 
-### Swish – Real-Time Chat Application
-JavaScript • Node.js • Express.js • Socket.IO
+A workshop management application developed to manage customers, vehicles, spare parts, and invoices while streamlining workshop operations.
 
-Real-time chat application supporting instant communication.
+---
 
-### Hospital Management System
-HTML • CSS • JavaScript • PHP • MySQL
+### 💬 Swish – Real-Time Chat Application
 
-Web-based application for managing patient records, doctors,
-appointments and related information.
+**HTML • CSS • JavaScript • Node.js • Express.js • Socket.IO**
 
-### Retail Sales Forecasting System
-Python • Pandas • Scikit-learn • Matplotlib
+A real-time chat application built for instant communication with real-time message delivery using Socket.IO.
 
-Machine learning project for predicting retail sales using the
-BigMart dataset.
+---
+
+### 🏥 Hospital Management System
+
+**HTML • CSS • JavaScript • PHP • MySQL • XAMPP**
+
+A web-based hospital management system for managing patient records, doctor information, appointments, and related hospital data.
+
+---
+
+### 📊 Retail Sales Forecasting System
+
+**Python • Pandas • Scikit-learn • Matplotlib**
+
+A machine learning project developed to predict retail sales using the BigMart dataset. The project includes data preprocessing, feature engineering, exploratory data analysis, visualization, model training, and evaluation using a Random Forest Regressor.
+
+---
 
 ## 📫 Connect With Me
 
-**LinkedIn:**  
-https://www.linkedin.com/in/rishav-kumar-4747a5309
+- 💼 LinkedIn: [Rishav Kumar](https://www.linkedin.com/in/rishav-kumar-4747a5309)
+- 🐙 GitHub: [rishav-kumar18](https://github.com/rishav-kumar18)
