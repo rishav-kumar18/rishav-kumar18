@@ -2,14 +2,14 @@
 
 ### Software Developer | Web Developer | Data Analytics & Machine Learning
 
-Computer Science graduate interested in software development, web development, data analytics, and machine learning. I enjoy building practical applications, solving problems, and continuously learning new technologies through projects.
+Computer Science graduate interested in software development, web development, data analytics and machine learning. I enjoy building practical applications, solving problems and continuously learning new technologies through projects.
 
 ---
 
 ## 👨‍💻 About Me
 
 - 💻 Interested in software and web application development
-- 🛠️ Experience with C#, .NET, ASP.NET MVC, JavaScript, Python, and SQL
+- 🛠️ Experience with Java, C, C#, .NET, MVC, JavaScript, Python and SQL
 - 🌐 Built web applications and real-time applications
 - 📊 Worked on data analysis and machine learning projects
 - 🚀 Continuously learning and building projects with different technologies
@@ -19,10 +19,10 @@ Computer Science graduate interested in software development, web development, d
 ## 🛠️ Technologies & Tools
 
 ### Languages
-C# • C++ • Java • Python • JavaScript • PHP • HTML • CSS
+C# • C • Java • Python • JavaScript • PHP • HTML • CSS
 
 ### Frameworks & Technologies
-.NET • ASP.NET MVC • .NET WinForms • Node.js • Express.js • React.js • Socket.IO • ADO.NET • Entity Framework
+MVC • ASP.NET • .NET WinForms • Node.js • Express.js • React.js • Socket.IO • ADO.NET • Entity Framework
 
 ### Databases
 SQL Server • MySQL • MongoDB
@@ -55,7 +55,7 @@ A real-time chat application built for instant communication with real-time mess
 
 ### 🏥 Hospital Management System
 
-**HTML • CSS • JavaScript • PHP • MySQL • XAMPP**
+**HTML • CSS • JavaScript • PHP • MySQL**
 
 A web-based hospital management system for managing patient records, doctor information, appointments, and related hospital data.
 
