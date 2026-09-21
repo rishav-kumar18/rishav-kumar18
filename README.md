@@ -45,7 +45,7 @@ A workshop management application developed to manage customers, vehicles, spare
 
 ---
 
-### 💬 Swish – Real-Time Chat Application
+### 💬 Swish Chat App
 
 **HTML • CSS • JavaScript • Node.js • Express.js • Socket.IO**
 
