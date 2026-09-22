@@ -28,44 +28,10 @@ MVC • ASP.NET • .NET WinForms • Node.js • Express.js • React.js • So
 SQL Server • MySQL • MongoDB
 
 ### Data & Machine Learning
-Python • Pandas • Scikit-learn • Matplotlib • Power BI
+Pandas • Scikit-learn • Matplotlib • Power BI
 
 ### Tools
 Git • GitHub • XAMPP • phpMyAdmin
-
----
-
-## 🚀 Projects
-
-### 🛠️ MechMaster – Workshop Management Portal
-
-**C# • ASP.NET MVC • .NET WinForms • SQL Server**
-
-A workshop management application developed to manage customers, vehicles, spare parts, and invoices while streamlining workshop operations.
-
----
-
-### 💬 Swish Chat App
-
-**HTML • CSS • JavaScript • Node.js • Express.js • Socket.IO**
-
-A real-time chat application built for instant communication with real-time message delivery using Socket.IO.
-
----
-
-### 🏥 Hospital Management System
-
-**HTML • CSS • JavaScript • PHP • MySQL**
-
-A web-based hospital management system for managing patient records, doctor information, appointments, and related hospital data.
-
----
-
-### 📊 Retail Sales Forecasting System
-
-**Python • Pandas • Scikit-learn • Matplotlib**
-
-A machine learning project developed to predict retail sales using the BigMart dataset. The project includes data preprocessing, feature engineering, exploratory data analysis, visualization, model training, and evaluation using a Random Forest Regressor.
 
 ---
 
